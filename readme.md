@@ -1,2 +1,2 @@
-# fakegfw
+# passgfw
 Bypass the FGW
